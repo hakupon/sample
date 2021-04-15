@@ -1,5 +1,5 @@
 
-//LocalよりPush 2021/04/15 14:15
+//LocalよりPush 2021/04/15 15:10
 // Messaging APIのチャネルアクセストークン
 const CHANNEL_ACCESS_TOKEN = "wIalaUwle5sIGg3nOtvrfUY4XMJ0Y/TZS4TOsxPbC0vO7BOGBNtJ1tpOsnidI8X6k56ly0mYFNdXFeeMfmq7bBpeXU0Yj6dLR4iN7lVhWSZImgqFKHxsqdfETO2OyqohXDMeaJkmAuMmp0eQWeKG4gdB04t89/1O/w1cDnyilFU=";
 
